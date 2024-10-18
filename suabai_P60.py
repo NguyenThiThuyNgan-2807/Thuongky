@@ -41,7 +41,7 @@ def trungbinh_seqB(seqB):
 
 #7
 def khoangcach(seq):
-    max(seq) - min(seq)
+    return max(seq) - min(seq)
     
 #8
 def sosanh(seqA,seqB):
